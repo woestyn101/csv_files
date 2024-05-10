@@ -1,0 +1,26 @@
+,name,model,price,currency,release_date,brand,category,fuel_type,vehicle_transmission,engine,total_km_driven
+5,2015 Toyota Sequoia,Sequoia,31471.0,USD,2015,Toyota,SUV,Gas,Automatic,5.7L V-8 Gas,106061
+10,2019 Toyota Sequoia,Sequoia,60559.0,USD,2019,Toyota,SUV,Gas,Automatic,5.7L V-8 Gas,45996
+14,2019 Toyota Sienna,Sienna,39000.0,USD,2019,Toyota,Minivan,Gas,Automatic,3.5L V-6 Gas,44437
+20,2010 Toyota FJ Cruiser,FJ Cruiser,23892.0,USD,2010,Toyota,SUV,Gas,Automatic,4.0L V-6 Gas,143548
+28,2019 Toyota Camry,Camry,29990.0,USD,2019,Toyota,Sedan,Gas,Automatic,2.5L Inline-4 Gas,13088
+36,2019 Toyota Camry,Camry,26564.0,USD,2019,Toyota,Sedan,Gas,Automatic,2.5L Inline-4 Gas,79901
+50,2018 Toyota RAV4,RAV4,24280.0,USD,2018,Toyota,SUV,Gas,Automatic,2.5L Inline-4 Gas,67641
+61,2013 Toyota RAV4,RAV4,17995.0,USD,2013,Toyota,SUV,Gas,Automatic,2.5L Inline-4 Gas,98258
+64,2021 Toyota Camry,Camry,28991.0,USD,2021,Toyota,Sedan,Gas,Automatic,2.5L Inline-4 Gas,20939
+82,2022 Toyota 4Runner,4Runner,65995.0,USD,2022,Toyota,SUV,Gas,Automatic,4.0L V-6 Gas,4864
+86,2020 Toyota Tacoma,Tacoma,44395.0,USD,2020,Toyota,Pickup Truck,Gas,Automatic,3.5L V-6 Gas,27806
+96,2020 Toyota RAV4,RAV4,27967.0,USD,2020,Toyota,SUV,Gas,Automatic,2.5L Inline-4 Gas,63145
+122,2021 Toyota Camry,Camry,26188.0,USD,2021,Toyota,Sedan,Gas,Automatic,2.5L Inline-4 Gas,28954
+127,2019 Toyota Tacoma,Tacoma,34599.0,USD,2019,Toyota,Pickup Truck,Gas,Automatic,3.5L V-6 Gas,75495
+133,2021 Toyota Highlander,Highlander,42799.0,USD,2021,Toyota,SUV,Gas,Automatic,3.5L V-6 Gas,2288
+150,2020 Toyota Corolla,Corolla,23500.0,USD,2020,Toyota,Sedan,Gas,Automatic,1.8L Inline-4 Gas,56523
+164,2020 Toyota Camry,Camry,25800.0,USD,2020,Toyota,Sedan,Gas,Automatic,2.5L Inline-4 Gas,10879
+165,2020 Toyota Corolla,Corolla,21495.0,USD,2020,Toyota,Sedan,Gas,Automatic,1.8L Inline-4 Gas,50466
+181,2021 Toyota Highlander,Highlander,45291.0,USD,2021,Toyota,SUV,Gas,Automatic,3.5L V-6 Gas,32226
+183,2005 Toyota Camry,Camry,10995.0,USD,2005,Toyota,Sedan,Gas,Automatic,3.0L V-6 Gas,55185
+224,2019 Toyota Corolla,Corolla,21543.0,USD,2019,Toyota,Sedan,Gas,Automatic,1.8L Inline-4 Gas,53567
+226,2019 Toyota Tacoma,Tacoma,43811.0,USD,2019,Toyota,Pickup Truck,Gas,Automatic,3.5L V-6 Gas,14582
+250,2017 Toyota Tundra,Tundra,30288.0,USD,2017,Toyota,Pickup Truck,Gas,Automatic,5.7L V-8 Gas,65261
+255,2021 Toyota Tundra,Tundra,39999.0,USD,2021,Toyota,Pickup Truck,Gas,Automatic,5.7L V-8 Gas,23049
+260,2012 Toyota Camry,Camry,14000.0,USD,2012,Toyota,Sedan,Gas,Automatic,2.5L Inline-4 Gas,129736

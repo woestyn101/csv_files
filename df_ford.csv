@@ -1,0 +1,30 @@
+,name,model,price,currency,release_date,brand,category,fuel_type,vehicle_transmission,engine,total_km_driven
+2,2014 Ford F-150,F-150,33000.0,USD,2014,Ford,Pickup Truck,Gas,Automatic,6.2L V-8 Gas,55475
+7,2017 Ford F-150,F-150,37779.0,USD,2017,Ford,Pickup Truck,Gas,Automatic,3.5L V-6 Gas Turbocharged,52523
+39,2020 Ford Edge,Edge,27425.0,USD,2020,Ford,SUV,Gas,Automatic,2.0L Inline-4 Gas Turbocharged,46575
+49,2019 Ford Super Duty F-350,Super Duty F-350,59975.0,USD,2019,Ford,Pickup Truck,Diesel,Automatic,6.7L V-8 Diesel Turbocharged,92352
+52,2019 Ford Explorer,Explorer,28995.0,USD,2019,Ford,SUV,Gas,Automatic,2.3L V-4 Gas Turbocharged,81681
+59,2020 Ford Explorer,Explorer,38676.0,USD,2020,Ford,SUV,Gas,Automatic,2.3L Inline-4 Gas Turbocharged,19327
+71,2018 Ford F-150,F-150,38900.0,USD,2018,Ford,Pickup Truck,Gas,Automatic,3.5L V-6 Gas Turbocharged,92863
+95,2018 Ford Edge,Edge,29958.0,USD,2018,Ford,SUV,Gas,Automatic,2.0L Inline-4 Gas Turbocharged,32013
+101,2015 Ford F-150,F-150,32990.0,USD,2015,Ford,Pickup Truck,Gas,Automatic,2.7L V-6 Gas Turbocharged,59691
+108,2018 Ford F-150,F-150,34888.0,USD,2018,Ford,Pickup Truck,Gas,Automatic,5.0L V-8 Gas,64939
+111,2018 Ford Expedition,Expedition,43986.0,USD,2018,Ford,SUV,Gas,Automatic,3.5L V-6 Gas Turbocharged,66119
+118,2021 Ford Mustang,Mustang,66995.0,USD,2021,Ford,Coupe,Gas,Manual,5.0L V-8 Gas,5505
+123,2017 Ford Explorer,Explorer,26071.0,USD,2017,Ford,SUV,Gas,Automatic,3.5L V-6 Gas,53407
+125,2019 Ford Fusion,Fusion,26995.0,USD,2019,Ford,Sedan,Gas,Automatic,2.0L Inline-4 Gas Turbocharged,59756
+128,2015 Ford F-150,F-150,32991.0,USD,2015,Ford,Pickup Truck,Gas,Automatic,2.7L V-6 Gas Turbocharged,39939
+138,2019 Ford Explorer,Explorer,40988.0,USD,2019,Ford,SUV,Gas,Automatic,3.5L V-6 Gas Turbocharged,32297
+141,2016 Ford F-150,F-150,25998.0,USD,2016,Ford,Pickup Truck,Gas,Automatic,2.7L V-6 Gas Turbocharged,121883
+144,2020 Ford F-150,F-150,39989.0,USD,2020,Ford,Pickup Truck,Gas,Automatic,5.0L V-8 Gas Twin-Turbo,59260
+146,2011 Ford Super Duty F-350,Super Duty F-350,29000.0,USD,2011,Ford,Pickup Truck,Diesel,Automatic,6.7L V-8 Diesel Turbocharged,108759
+197,2013 Ford Edge,Edge,15988.0,USD,2013,Ford,SUV,Gas,Automatic,3.5L V-6 Gas,105000
+201,2018 Ford F-150,F-150,40990.0,USD,2018,Ford,Pickup Truck,Gas,Automatic,3.5L V-6 Gas Turbocharged,77441
+205,2019 Ford Edge,Edge,34499.0,USD,2019,Ford,SUV,Gas,Automatic,2.0L Inline-4 Gas Turbocharged,22261
+221,2019 Ford F-150,F-150,27550.0,USD,2019,Ford,Pickup Truck,Gas,Automatic,5.0L V-8 Gas,43889
+232,2020 Ford Expedition,Expedition,62797.0,USD,2020,Ford,SUV,Gas,Automatic,3.5L V-6 Gas Turbocharged,22485
+238,2012 Ford F-150,F-150,12499.0,USD,2012,Ford,Pickup Truck,Gas,Automatic,5.0L V-8 Gas,201100
+247,2018 Ford F-150,F-150,33000.0,USD,2018,Ford,Pickup Truck,Gas,Automatic,2.7L V-6 Gas Turbocharged,91808
+263,2015 Ford Expedition,Expedition,26800.0,USD,2015,Ford,SUV,Gas,Automatic,3.5L V-6 Gas Turbocharged,63882
+264,2019 Ford F-150,F-150,43998.0,USD,2019,Ford,Pickup Truck,Gas,Automatic,2.7L V-6 Gas Turbocharged,18390
+265,2017 Ford Edge,Edge,25913.0,USD,2017,Ford,SUV,Gas,Automatic,3.5L V-6 Gas Turbocharged,50322
